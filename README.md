@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @zeta976
+- 👋 Hi, I’m zeta
 - 👀 I’m interested in flight simulation
-- 🌱 I’m currently learning Blender, Substance, SASL
-- 💞️ I’m looking to collaborate on X-Plane Addons
+- 💞️ I’m looking to collaborate on flight simulation Addons
+- 🔨 I'm currently working on a freeware Cessna 152 for X-Plane 11
 - 📫 How to reach me:
+Discord: Zeta#5227
 contact.zlsimualation@gmail.com
 
 <!---
