@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zeta
-- 👀 I’m interested in flight simulation
-- 💞️ I’m looking to collaborate on flight simulation Addons
+- 👀 I’m interested in flight simulation, 3D modeling and programming
+- 💞️ I’m looking to collaborate on video games and 3D modeling
 - 🔨 I'm currently working on a freeware Cessna 152 for X-Plane 11
 - 📫 How to reach me:
 Discord: Zeta#5227
