@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zeta
 - 👀 I’m interested in flight simulation, 3D modeling and programming
-- 🔨 I'm currently working on a freeware Cessna 152 for X-Plane 11
+- 🔨 I'm currently working on a freeware Cessna 152 for X-Plane flight simulator
 - 📫 How to reach me:
 Discord: Zeta#5227
 contact.zlsimualation@gmail.com
